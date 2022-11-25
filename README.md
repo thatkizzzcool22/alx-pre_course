@@ -1,1 +1,1 @@
-My first readme
+This project is for my ALX school tasks.This is to build my career as a software Engineer permissions will be given to co-students when necessary co-students can collaborate whenit is required for a task.I own this project i will make the major changes and contributions.
